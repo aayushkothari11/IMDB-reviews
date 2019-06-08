@@ -1,5 +1,12 @@
 # IMDB-reviews
 
+### Data Cleaning
+Removing HTML tags
+Removing Punctuations
+Converting to lower case
+Lemmatization
+Removing stop words
+
 ### TF-IDF approach accuracy 
 
 SVM - 90.44% <br>
