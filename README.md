@@ -1,11 +1,11 @@
 # IMDB-reviews
 
 ### Data Cleaning
-Removing HTML tags
-Removing Punctuations
-Converting to lower case
-Lemmatization
-Removing stop words
+Removing HTML tags <br>
+Removing Punctuations <br>
+Converting to lower case <br>
+Lemmatization <br>
+Removing stop words <br>
 
 ### TF-IDF approach accuracy 
 
