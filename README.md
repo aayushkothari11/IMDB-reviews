@@ -27,7 +27,7 @@ Adding a Convolution layer - 85%-87% (The time required to train decreases signi
 
 
 ### NBSVM 
-NBSVM is an approach to text classification proposed by Wang and Manning (https://nlp.stanford.edu/pubs/sidaw12_simple_sentiment.pdf) that takes a linear model such as SVM (or logistic regression) and infuses it with Bayesian probabilities by replacing word count features with Naive Bayes log-count ratios.
+NBSVM is an approach to text classification proposed by Wang and Manning (https://nlp.stanford.edu/pubs/sidaw12_simple_sentiment.pdf) that takes a linear model such as SVM (or logistic regression) and infuses it with Bayesian probabilities by replacing word count features with Naive Bayes log-count ratios. <br>
 Accuracy - 91.5%
 
 
